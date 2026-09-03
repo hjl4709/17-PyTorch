@@ -29,6 +29,7 @@ MANIFEST
 lecture/
 data/
 model.pth
+*.pt
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
